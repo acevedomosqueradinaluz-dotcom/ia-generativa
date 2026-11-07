@@ -1,15 +1,47 @@
-# 🤖 Generador de Contenido con IA Generativa
+# Generador de Historias con IA Generativa 🤖✨
 
-Este proyecto es una aplicación de consola interactiva desarrollada en **Python** que utiliza modelos avanzados de **IA Generativa** (Google Gemini) para la creación automática de contenido literario (historias fantásticas y poemas creativos) basados en las preferencias del usuario.
+¡Bienvenido/a a mi proyecto de Inteligencia Artificial! Esta es una aplicación interactiva de consola desarrollada en **Python** que utiliza los modelos avanzados de **Google Gemini** para la creación automatizada de contenido literario (historias fantásticas y poemas creativos).
 
-## 🚀 Características
-- **Interfaz Limpia:** Menús interactivos ejecutados directamente en la consola de Visual Studio Code.
-- **Efecto Visual:** Output de texto estético simulando una máquina de escribir en tiempo real.
-- **Conectividad:** Integración directa y moderna con la API de inteligencia artificial de Google.
+---
+
+## 👩‍💻 Autora
+* **Nombre:** [Tu Nombre Completo]
+* **Institución:** [Nombre de tu Colegio o Universidad]
+* **Asignatura / Proyecto:** [Nombre de la materia, ej. Informática / Programación]
+
+---
+
+## 🌟 Características del Proyecto
+* **Menú Interactivo:** Interfaz limpia directamente ejecutada desde la consola.
+* **Historias a la Carta:** Generación rápida de relatos estructurados con IA.
+* **Poesía Automatizada:** Creación de composiciones líricas en segundos.
+* **Conectividad Moderna:** Integración oficial con la última librería `google-genai` de Google.
+
+---
 
 ## 🛠️ Requisitos e Instalación
-1. Instalar la librería oficial de la IA ejecutando en la terminal:
+
+Para ejecutar este proyecto de forma local, necesitas tener instalado Python y la librería oficial de IA:
+
+```bash
+pip install google-genai
+```
+
+### 🔑 Configuración de la Clave API
+Antes de arrancar el juego, recuerda configurar tu API Key en la terminal:
+
+```bash
+# Si usas la terminal CMD (Línea de comandos):
+set GEMINI_API_KEY="tu_clave_de_google_ai_studio"
+```
+
+---
+
+## 🚀 Cómo Ejecutar el Programa
+1. Abre la terminal en la carpeta del proyecto.
+2. Ejecuta el archivo principal:
    ```bash
-   pip install google-genai
+   python app.py
    ```
-2. Configurar la API Key provista por Google AI Studio en el entorno antes de correr la aplicación.
+3. ¡Selecciona una opción del menú (1 o 2) y disfruta de la magia de la IA! 🎭
+4.
